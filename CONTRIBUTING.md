@@ -18,7 +18,7 @@
 ```
 - [YourName](https://github.com/YourGitHubUsername)
 ```
-<img src= Assets/Example.png />
+ 
 
 * Replace YourName with your name and YourGitHubUsername with your GitHub username.
 * Commit the changes.
