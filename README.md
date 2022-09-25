@@ -1,7 +1,9 @@
-<h1 align="center"> <img src= "https://octodex.github.com/images/original.png" width= "40" /> HacktoberFest 2022 <img src= "https://octodex.github.com/images/original.png" width= "40" /> </h1>
+
 ![image](https://user-images.githubusercontent.com/99472914/192143999-5970e1f5-a1ba-4dcc-9f7a-83e86a8f90ca.png)
 
-<div align="center">
+#                                                    Hacktoberfest2022
+![image](https://user-images.githubusercontent.com/99472914/192144059-5cd0b329-f238-474b-b475-7385eaa35d05.png)
+
  
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/Sanyam-2026/Hacktoberfest2022)
