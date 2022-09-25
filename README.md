@@ -1,4 +1,5 @@
-<h1 align="center"> <img src= "https://octodex.github.com/images/original.png" width= "40" /> HacktoberFest 2022 <img src= "https://octodex.github.com/images/original.png" width= "40" /> </h1>
+<h1 align="center"> <img src= "![image](https://user-images.githubusercontent.com/99472914/192143493-f3fa273d-9561-4773-a9c2-211f484d2f3c.png)
+" width= "40" /> HacktoberFest 2022 <img src= "https://octodex.github.com/images/original.png" width= "40" /> </h1>
 
 <img src= "" width= "400"/>
 
@@ -28,7 +29,7 @@ Check out `good-first-issues` for contributing [here](https://github.com/Sanyam-
 * **Sanyam Jain**
 * [Twitter](https://twitter.com/IasSanyamJain)
 * [GitHub](https://github.com/Sanyam-2026)
-* [Email](mailto:sanyamjain6667@gmail.com)
+* [Email](sanyamjain6667@gmail.com)
 
  
 ### Contributing
