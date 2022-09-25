@@ -1,10 +1,7 @@
-<h1 align="center"> <img src= "![image](https://user-images.githubusercontent.com/99472914/192143493-f3fa273d-9561-4773-a9c2-211f484d2f3c.png)
-" width= "40" /> HacktoberFest 2022 <img src= "https://octodex.github.com/images/original.png" width= "40" /> </h1>
-
-<img src= "![image](https://user-images.githubusercontent.com/99472914/192143565-98e235b7-f941-4c3d-a21a-15bb0368c27d.png)
-" width= "400"/>
-
-<br> <br>
+ 
+ # HacktoberFest 2022
+![image](https://user-images.githubusercontent.com/99472914/192143636-c7eaf481-2e05-443a-912e-e8cf2f29ec6a.png)
+ 
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/Sanyam-2026/Hacktoberfest2022)
 <img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
