@@ -1,7 +1,8 @@
 <h1 align="center"> <img src= "![image](https://user-images.githubusercontent.com/99472914/192143493-f3fa273d-9561-4773-a9c2-211f484d2f3c.png)
 " width= "40" /> HacktoberFest 2022 <img src= "https://octodex.github.com/images/original.png" width= "40" /> </h1>
 
-<img src= "" width= "400"/>
+<img src= "![image](https://user-images.githubusercontent.com/99472914/192143565-98e235b7-f941-4c3d-a21a-15bb0368c27d.png)
+" width= "400"/>
 
 <br> <br>
 
@@ -13,9 +14,9 @@
 
 <h4> Feel free to contribute to this repo by creating and editing little programs in any programming language and make different folders for the code you want to contribute. </h4>
 
-If you want to practice to make a pull request, follow the [CONTRIBUTING.md](/CONTRIBUTING.md)
+If you want to practice to make a pull request, follow the CONTRIBUTING.md
 
-Discuss and chat with others [here](https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/discussions/6)
+ 
 
 Check out `good-first-issues` for contributing [here](https://github.com/Sanyam-2026/Hacktoberfest2022/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
 </div>
@@ -29,7 +30,7 @@ Check out `good-first-issues` for contributing [here](https://github.com/Sanyam-
 * **Sanyam Jain**
 * [Twitter](https://twitter.com/IasSanyamJain)
 * [GitHub](https://github.com/Sanyam-2026)
-* [Email](sanyamjain6667@gmail.com)
+
 
  
 ### Contributing
