@@ -6,7 +6,7 @@
  
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/Sanyam-2026/Hacktoberfest2022)
-<img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
+
  
 
 <h4> You can make folders of programming languages and also you can contribute in the repo's below.</h4>
