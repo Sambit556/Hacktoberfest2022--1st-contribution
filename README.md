@@ -1,9 +1,5 @@
  <h1 align="center"> <img src= "https://octodex.github.com/images/original.png" width= "40" /> HacktoberFest 2022 <img src= "https://octodex.github.com/images/original.png" width= "40" /> </h1>
-
- # HacktoberFest 2022
 ![image](https://user-images.githubusercontent.com/99472914/192143636-c7eaf481-2e05-443a-912e-e8cf2f29ec6a.png)
- 
-
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/Sanyam-2026/Hacktoberfest2022)
 <img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
  
