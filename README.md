@@ -1,18 +1,12 @@
 <h1 align="center"> <img src= "https://octodex.github.com/images/original.png" width= "40" /> HacktoberFest 2022 <img src= "https://octodex.github.com/images/original.png" width= "40" /> </h1>
 
-
-
-<div align="center">
-
-<img src= "Assets/Hfest-Logo-2-Color-Manga.png" width= "400"/>
+<img src= "" width= "400"/>
 
 <br> <br>
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/Sanyam-2026/Hacktoberfest2022)
 <img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
-<img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://github.com/Sanyam-2026" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
-<a href="https://github.com/Sanyam-2026/Hacktoberfest2022/pulls"><img src="https://img.shields.io/github/issues-pr/MrKrishnaAgarwal/hacktoberfest2022" alt="Pull Requests Badge"/></a>
+ 
 
 <h4> You can make folders of programming languages and also you can contribute in the repo's below.</h4>
 
@@ -27,17 +21,7 @@ Check out `good-first-issues` for contributing [here](https://github.com/Sanyam-
 
 <br>
 
-> You can also contribute in the following repo's :-
-
-| Repository  | Issues  | Pull Requests  | Forks |
-|---|---|---|---|
-| [Swags for Developers](https://github.com/MrKrishnaAgarwal/Swags-for-Developers) | [![GitHub issues](https://img.shields.io/github/issues/MrKrishnaAgarwal/Swags-for-Developers?color=pink&logo=github)](https://github.com/MrKrishnaAgarwal/Swags-for-Developers/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/MrKrishnaAgarwal/Swags-for-Developers?style=social&logo=github)](https://github.com/MrKrishnaAgarwal/Swags-for-Developers/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/MrKrishnaAgarwal/Swags-for-Developers?logo=git)](https://github.com/MrKrishnaAgarwal/Swags-for-Developers/network/members) |
-| [Drone Course](https://github.com/MrKrishnaAgarwal/Drone-Course) | [![GitHub issues](https://img.shields.io/github/issues/MrKrishnaAgarwal/Drone-Course?color=pink&logo=github)](https://github.com/MrKrishnaAgarwal/Drone-Course/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/MrKrishnaAgarwal/Drone-Course?style=social&logo=github)](https://github.com/MrKrishnaAgarwal/Drone-Course/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/MrKrishnaAgarwal/Drone-Course?logo=git)](https://github.com/MrKrishnaAgarwal/Drone-Course/network/members) |
-| [Git Cheat Sheet](https://github.com/MrKrishnaAgarwal/Git-CheatSheet) | [![GitHub issues](https://img.shields.io/github/issues/MrKrishnaAgarwal/Git-CheatSheet?color=pink&logo=github)](https://github.com/MrKrishnaAgarwal/Git-CheatSheet/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/MrKrishnaAgarwal/Git-CheatSheet?style=social&logo=github)](https://github.com/MrKrishnaAgarwal/Git-CheatSheet/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/MrKrishnaAgarwal/Git-CheatSheet?logo=git)](https://github.com/MrKrishnaAgarwal/Git-CheatSheet/network/members) |  
-| [Hello World](https://github.com/MrKrishnaAgarwal/Hello-World) | [![GitHub issues](https://img.shields.io/github/issues/MrKrishnaAgarwal/Hello-World?color=pink&logo=github)](https://github.com/MrKrishnaAgarwal/Hello-World/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/MrKrishnaAgarwal/Hello-World?style=social&logo=github)](https://github.com/MrKrishnaAgarwal/Hello-World/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/MrKrishnaAgarwal/Hello-World?logo=git)](https://github.com/MrKrishnaAgarwal/Hello-World/network/members) |
-| [Python Guide](https://github.com/MrKrishnaAgarwal/Python-Guide) | [![GitHub issues](https://img.shields.io/github/issues/MrKrishnaAgarwal/Python-Guide?color=pink&logo=github)](https://github.com/MrKrishnaAgarwal/Python-Guide/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/MrKrishnaAgarwal/Python-Guide?style=social&logo=github)](https://github.com/MrKrishnaAgarwal/Python-Guide/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/MrKrishnaAgarwal/Python-Guide?logo=git)](https://github.com/MrKrishnaAgarwal/Python-Guide/network/members) |
-| [30 Days of Code](https://github.com/MrKrishnaAgarwal/30DaysOfCode) | [![GitHub issues](https://img.shields.io/github/issues/MrKrishnaAgarwal/30DaysOfCode?color=pink&logo=github)](https://github.com/MrKrishnaAgarwal/30DaysOfCode/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/MrKrishnaAgarwal/30DaysOfCode?style=social&logo=github)](https://github.com/MrKrishnaAgarwal/30DaysOfCode/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/MrKrishnaAgarwal/30DaysOfCode?logo=git)](https://github.com/MrKrishnaAgarwal/30DaysOfCode/network/members) |
-<br>
+ 
 
 ### Author
 
